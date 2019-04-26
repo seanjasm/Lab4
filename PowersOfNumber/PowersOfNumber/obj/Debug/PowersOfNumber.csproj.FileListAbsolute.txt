@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Week1\Lab4\PowersOfNumber\PowersOfNumber\bin\Debug\PowersOfNumber.exe.config
+C:\Users\User\source\repos\Week1\Lab4\PowersOfNumber\PowersOfNumber\bin\Debug\PowersOfNumber.exe
+C:\Users\User\source\repos\Week1\Lab4\PowersOfNumber\PowersOfNumber\bin\Debug\PowersOfNumber.pdb
+C:\Users\User\source\repos\Week1\Lab4\PowersOfNumber\PowersOfNumber\obj\Debug\PowersOfNumber.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Week1\Lab4\PowersOfNumber\PowersOfNumber\obj\Debug\PowersOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Week1\Lab4\PowersOfNumber\PowersOfNumber\obj\Debug\PowersOfNumber.exe
+C:\Users\User\source\repos\Week1\Lab4\PowersOfNumber\PowersOfNumber\obj\Debug\PowersOfNumber.pdb
